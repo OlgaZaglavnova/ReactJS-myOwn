@@ -1,0 +1,16 @@
+.switchedUp{
+    background-color: #db9fff;
+}
+.ChatListItem__item {
+    display: flex;
+    cursor: pointer;
+}
+.ChatListItem__avatar{
+    display: inline-block;
+}
+.ChatListItem__text{
+    flex-grow: 1;
+    padding: 5px 10px;
+    font-size: 14px;
+    line-height: 30px;
+}
